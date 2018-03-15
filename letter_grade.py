@@ -1,6 +1,5 @@
 __author__ = 'Burak.K'
 #Ismail Burak Kurhan
-#220201055
 
 def read_from_file(): # This function's goal read from file to list
     grades_list=[]
